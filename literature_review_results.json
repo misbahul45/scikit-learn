@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "total_articles_reviewed": 75,
+    "publication_timeframe": "2018-2023",
+    "most_cited_article": {
+      "title": "Work-Based Learning for Industry 4.0: A Case Study from Southeast Asia",
+      "authors": [
+        "Author A-7",
+        "Author B-7"
+      ],
+      "abstract": "the implementation of work-based learning its impact on student engagement and career readiness",
+      "keywords": [
+        "AI",
+        "digital skills",
+        "work-based learning"
+      ],
+      "publication_year": 2019,
+      "journal_name": "Computers & Education",
+      "doi": "10.1234/j.2019.561",
+      "url": "https://example.com/article/2019/8",
+      "citation_count": 100,
+      "full_text": ""
+    },
+    "top_themes": [
+      "leveraging machine",
+      "novel framework",
+      "propose novel",
+      "career readiness",
+      "engagement career"
+    ],
+    "top_keywords": [
+      "ai",
+      "mentorship",
+      "work-based learning",
+      "industry 4.0",
+      "vocational education"
+    ],
+    "research_gaps": [
+      "Lack of research on 'Blockchain' application in vocational education.",
+      "Lack of research on 'Virtual Reality' application in vocational education.",
+      "Limited focus on measurable 'Soft Skills' development frameworks."
+    ],
+    "recommendations": [
+      "Develop a centralized digital platform for Work-Based Learning (WBL).",
+      "Implement features for skill assessment and competency tracking."
+    ]
+  },
+  "detailed_analysis": {
+    "themes": {
+      "leveraging machine": 1,
+      "novel framework": 1,
+      "propose novel": 1,
+      "career readiness": 1,
+      "engagement career": 1,
+      "impact student": 1,
+      "student engagement": 1,
+      "explores integration": 1,
+      "challenges opportunities": 1,
+      "digital skills": 1,
+      "vocational education": 1,
+      "empirical challenges": 1,
+      "readiness propose": 1,
+      "implementation learning": 1,
+      "learning personalize": 1,
+      "machine learning": 1,
+      "personalize explores": 1,
+      "opportunities leveraging": 1,
+      "framework implementation": 1,
+      "integration empirical": 1
+    },
+    "publication_trends": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "counts": [
+        12,
+        7,
+        12,
+        14,
+        14,
+        16
+      ]
+    },
+    "keyword_analysis": {
+      "top_keywords": {
+        "ai": 41,
+        "mentorship": 40,
+        "work-based learning": 38,
+        "industry 4.0": 37,
+        "vocational education": 35,
+        "digital skills": 34
+      }
+    },
+    "citation_analysis": {
+      "total_citations": 4124,
+      "average_citations": 54.986666666666665,
+      "max_citations": 100,
+      "min_citations": 9
+    },
+    "author_analysis": {
+      "top_authors": {
+        "Author A-2": 10,
+        "Author B-2": 10,
+        "Author A-4": 10,
+        "Author B-4": 10,
+        "Author A-0": 10,
+        "Author B-0": 10,
+        "Author A-3": 10,
+        "Author B-3": 10,
+        "Author A-1": 10,
+        "Author B-1": 10
+      }
+    }
+  }
+}

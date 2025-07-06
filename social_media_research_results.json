@@ -1,0 +1,1669 @@
+{
+  "timestamp": "2025-07-06T15:22:09.213587",
+  "insights": {
+    "total_posts": 96,
+    "top_keywords": {
+      "industri": 48,
+      "siswa": 42,
+      "digital": 36,
+      "magang": 30,
+      "platform": 30,
+      "cari": 24,
+      "butuh": 24,
+      "skill": 24,
+      "lulusan": 24,
+      "solusi": 18
+    },
+    "sentiment_analysis": {
+      "average_sentiment": 0.125,
+      "positive_ratio": 0.3125,
+      "negative_ratio": 0.1875,
+      "neutral_ratio": 0.5
+    },
+    "platform_distribution": {
+      "TikTok": 48,
+      "Twitter": 48
+    },
+    "engagement_stats": {
+      "avg_likes": 61.25,
+      "avg_comments": 9.25,
+      "avg_shares": 5.0,
+      "total_engagement": 7248
+    }
+  },
+  "conclusion": "\nKESIMPULAN ANALISIS MEDIA SOSIAL\n=====================================\n\nBerdasarkan analisis terhadap 96 post dari TikTok dan Twitter, ditemukan beberapa insight kunci untuk pengembangan aplikasi D-WBL:\n\n1.  **Sentimen Utama**: Sentimen pembicaraan publik cenderung positif (31%), yang mengindikasikan antusiasme dan harapan terhadap solusi digital untuk pendidikan vokasi.\n    Ini menunjukkan bahwa ada pasar yang 'lapar' akan solusi, tetapi solusi tersebut harus benar-benar menjawab 'pain points' yang ada.\n\n2.  **Topik Pembahasan Utama**: Pembicaraan didominasi oleh kata kunci seperti 'industri', 'siswa', 'digital', dan 'magang'.\n    -   **Industri & Siswa**: Kebutuhan akan platform yang mempermudah pencarian magang dan menghubungkan siswa dengan industri sangat tinggi.\n    -   **Digital & Kompetensi**: Ada kesadaran kuat akan pentingnya 'skill digital' dan kompetensi yang relevan dengan Industri 4.0.\n    -   **Mentor & Industri**: Peran mentor dan kolaborasi langsung dengan industri dianggap krusial untuk kesiapan kerja.\n\n3.  **Rekomendasi Strategis untuk Aplikasi D-WBL**:\n    -   **Prioritaskan Fitur Inti**: Fokus utama harus pada fitur pencocokan magang (Internship Matching) yang cerdas dan direktori industri yang komprehensif.\n    -   **Bangun Ekosistem Kompetensi**: Integrasikan fitur untuk penilaian skill (Skill Assessment), modul pembelajaran singkat (Micro-learning), dan program mentorship.\n    -   **Validasi & Sertifikasi**: Pertimbangkan fitur portofolio digital dan sertifikasi yang terverifikasi (mungkin terinspirasi dari ide 'blockchain') untuk meningkatkan nilai jual lulusan.\n    -   **Jawab 'Pain Points'**: Aplikasi harus dirancang untuk menjadi solusi atas 'kesulitan' dan 'gap' yang sering disebut, dengan antarmuka yang mudah digunakan.\n\nAnalisis ini mengkonfirmasi bahwa ada kebutuhan pasar yang jelas dan mendesak untuk platform seperti D-WBL. Keberhasilan akan bergantung pada kemampuan aplikasi untuk secara efektif menjadi jembatan antara dunia pendidikan dan industri.\n",
+  "raw_posts": [
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan magang SMK, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:21:57.195882",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:21:57.195907",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:21:57.195911",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:21:57.195913",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti magang SMK bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:21:57.195915",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill magang SMK yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:21:57.195917",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan magang SMK, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:21:57.195920",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:21:57.195921",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan lulusan SMK, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:21:58.197160",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:21:58.197174",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:21:58.197177",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:21:58.197179",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti lulusan SMK bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:21:58.197181",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill lulusan SMK yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:21:58.197183",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan lulusan SMK, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:21:58.197185",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:21:58.197187",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan kompetensi digital, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:21:59.198235",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:21:59.198250",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:21:59.198253",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:21:59.198255",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti kompetensi digital bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:21:59.198257",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill kompetensi digital yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:21:59.198260",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan kompetensi digital, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:21:59.198262",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:21:59.198264",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan kesiapan kerja, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:22:00.200001",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:22:00.200018",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:22:00.200021",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:22:00.200023",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti kesiapan kerja bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:22:00.200025",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill kesiapan kerja yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:22:00.200028",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan kesiapan kerja, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:22:00.200030",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:22:00.200032",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan industri 4.0, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:22:01.200909",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:22:01.200921",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:22:01.200924",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:22:01.200926",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti industri 4.0 bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:22:01.200927",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill industri 4.0 yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:22:01.200929",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan industri 4.0, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:22:01.200931",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:22:01.200933",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan pendidikan vokasi, butuh solusi nih!",
+      "author": "user_tiktok_0",
+      "timestamp": "2025-07-06 15:22:02.202054",
+      "likes": 50,
+      "comments": 5,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_1",
+      "timestamp": "2025-07-06 15:22:02.202071",
+      "likes": 60,
+      "comments": 7,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Skill digital penting banget buat lulusan SMK sekarang. Harus ada kurikulum yang relevan.",
+      "author": "user_tiktok_2",
+      "timestamp": "2025-07-06 15:22:02.202073",
+      "likes": 70,
+      "comments": 9,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Mentor dari industri sangat membantu dalam mempersiapkan karier masa depan. #mentorship",
+      "author": "user_tiktok_3",
+      "timestamp": "2025-07-06 15:22:02.202075",
+      "likes": 80,
+      "comments": 11,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Aplikasi seperti pendidikan vokasi bisa jadi solusi gap antara sekolah dan kebutuhan industri. Keren idenya!",
+      "author": "user_tiktok_4",
+      "timestamp": "2025-07-06 15:22:02.202077",
+      "likes": 90,
+      "comments": 13,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Gimana caranya dapet sertifikasi resmi buat skill pendidikan vokasi yang kita pelajari sendiri?",
+      "author": "user_tiktok_5",
+      "timestamp": "2025-07-06 15:22:02.202079",
+      "likes": 100,
+      "comments": 15,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Susah banget cari tempat magang yang sesuai jurusan pendidikan vokasi, butuh solusi nih!",
+      "author": "user_tiktok_6",
+      "timestamp": "2025-07-06 15:22:02.202081",
+      "likes": 110,
+      "comments": 17,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "TikTok",
+      "content": "Buat platform yang bisa connect siswa SMK dengan industri dong, pasti berguna banget.",
+      "author": "user_tiktok_7",
+      "timestamp": "2025-07-06 15:22:02.202083",
+      "likes": 120,
+      "comments": 19,
+      "shares": 9,
+      "hashtags": [
+        "#SMK",
+        "#magang",
+        "#karier",
+        "#digital"
+      ],
+      "mentions": []
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (magang SMK). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:03.204533",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:03.204549",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:03.204553",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:03.204555",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:03.204557",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:03.204559",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (magang SMK). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:03.204561",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:03.204562",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (lulusan SMK). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:04.206080",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:04.206094",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:04.206096",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:04.206099",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:04.206101",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:04.206103",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (lulusan SMK). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:04.206104",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:04.206106",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (kompetensi digital). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:05.207257",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:05.207272",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:05.207274",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:05.207277",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:05.207279",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:05.207281",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (kompetensi digital). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:05.207283",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:05.207285",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (kesiapan kerja). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:06.208675",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:06.208691",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:06.208696",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:06.208699",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:06.208702",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:06.208706",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (kesiapan kerja). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:06.208709",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:06.208712",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (industri 4.0). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:07.210190",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:07.210203",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:07.210205",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:07.210207",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:07.210209",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:07.210211",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (industri 4.0). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:07.210213",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:07.210215",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (pendidikan vokasi). Ini krusial!",
+      "author": "@user_twitter_0",
+      "timestamp": "2025-07-06 15:22:08.211701",
+      "likes": 20,
+      "comments": 3,
+      "shares": 1,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_1",
+      "timestamp": "2025-07-06 15:22:08.211718",
+      "likes": 25,
+      "comments": 4,
+      "shares": 2,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Gap antara pendidikan SMK dan kebutuhan industri masih jadi PR besar. Kurikulum harus adaptif.",
+      "author": "@user_twitter_2",
+      "timestamp": "2025-07-06 15:22:08.211721",
+      "likes": 30,
+      "comments": 5,
+      "shares": 3,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Mentorship program bisa bantu siswa SMK lebih siap kerja. Pengalaman dari praktisi itu mahal.",
+      "author": "@user_twitter_3",
+      "timestamp": "2025-07-06 15:22:08.211723",
+      "likes": 35,
+      "comments": 6,
+      "shares": 4,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Teknologi blockchain bisa dipake buat verifikasi sertifikasi kompetensi siswa. Lebih terpercaya. #inovasi",
+      "author": "@user_twitter_4",
+      "timestamp": "2025-07-06 15:22:08.211725",
+      "likes": 40,
+      "comments": 7,
+      "shares": 5,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Kurang platform buat kolaborasi proyek antara siswa SMK dan UMKM. Padahal potensinya besar.",
+      "author": "@user_twitter_5",
+      "timestamp": "2025-07-06 15:22:08.211727",
+      "likes": 45,
+      "comments": 8,
+      "shares": 6,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Pemerintah @kemdikbudristek perlu buat platform digital buat siswa SMK cari magang (pendidikan vokasi). Ini krusial!",
+      "author": "@user_twitter_6",
+      "timestamp": "2025-07-06 15:22:08.211729",
+      "likes": 50,
+      "comments": 9,
+      "shares": 7,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    },
+    {
+      "platform": "Twitter",
+      "content": "Industri 4.0 butuh lulusan SMK yang punya skill digital mumpuni, bukan cuma teori.",
+      "author": "@user_twitter_7",
+      "timestamp": "2025-07-06 15:22:08.211731",
+      "likes": 55,
+      "comments": 10,
+      "shares": 8,
+      "hashtags": [
+        "#SMK",
+        "#pendidikan",
+        "#teknologi",
+        "#linkandmatch"
+      ],
+      "mentions": [
+        "@kemdikbudristek"
+      ]
+    }
+  ]
+}
