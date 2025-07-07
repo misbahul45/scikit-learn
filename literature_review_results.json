@@ -3,70 +3,72 @@
     "total_articles_reviewed": 75,
     "publication_timeframe": "2018-2023",
     "most_cited_article": {
-      "title": "Work-Based Learning for Industry 4.0: A Case Study from Southeast Asia",
+      "title": "Readiness of Graduates for the Digital Economy: A Case Study from Indonesia",
       "authors": [
-        "Author A-7",
-        "Author B-7"
+        "Author A-2",
+        "Author B-2"
       ],
-      "abstract": "the implementation of work-based learning its impact on student engagement and career readiness",
+      "abstract": "leveraging AI and machine learning to personalize We propose a novel framework for",
       "keywords": [
-        "AI",
-        "digital skills",
-        "work-based learning"
+        "work-based learning",
+        "mentorship",
+        "industry 4.0"
       ],
-      "publication_year": 2019,
-      "journal_name": "Computers & Education",
-      "doi": "10.1234/j.2019.561",
-      "url": "https://example.com/article/2019/8",
-      "citation_count": 100,
+      "publication_year": 2020,
+      "journal_name": "Journal of Vocational Education & Training",
+      "doi": "10.1234/j.2020.743",
+      "url": "https://example.com/article/2020/3",
+      "citation_count": 98,
       "full_text": ""
     },
     "top_themes": [
-      "leveraging machine",
-      "novel framework",
-      "propose novel",
       "career readiness",
-      "engagement career"
+      "engagement career",
+      "impact student",
+      "student engagement",
+      "explores integration"
     ],
     "top_keywords": [
       "ai",
-      "mentorship",
-      "work-based learning",
+      "vocational education",
+      "digital skills",
       "industry 4.0",
-      "vocational education"
+      "mentorship"
     ],
     "research_gaps": [
       "Lack of research on 'Blockchain' application in vocational education.",
+      "Lack of research on 'Machine Learning' application in vocational education.",
       "Lack of research on 'Virtual Reality' application in vocational education.",
       "Limited focus on measurable 'Soft Skills' development frameworks."
     ],
     "recommendations": [
       "Develop a centralized digital platform for Work-Based Learning (WBL).",
-      "Implement features for skill assessment and competency tracking."
+      "Implement features for skill assessment and competency tracking.",
+      "Create tools to facilitate seamless industry-school collaboration."
     ]
   },
   "detailed_analysis": {
     "themes": {
-      "leveraging machine": 1,
-      "novel framework": 1,
-      "propose novel": 1,
       "career readiness": 1,
       "engagement career": 1,
       "impact student": 1,
       "student engagement": 1,
       "explores integration": 1,
       "challenges opportunities": 1,
+      "leveraging machine": 1,
+      "novel framework": 1,
+      "propose novel": 1,
       "digital skills": 1,
       "vocational education": 1,
-      "empirical challenges": 1,
-      "readiness propose": 1,
-      "implementation learning": 1,
-      "learning personalize": 1,
-      "machine learning": 1,
+      "readiness empirical": 1,
+      "opportunities challenges": 1,
+      "integration impact": 1,
       "personalize explores": 1,
-      "opportunities leveraging": 1,
-      "framework implementation": 1,
-      "integration empirical": 1
+      "empirical explores": 1,
+      "opportunities implementation": 1,
+      "empirical impact": 1,
+      "personalize propose": 1,
+      "industry digital": 1
     },
     "publication_trends": {
       "years": [
@@ -78,42 +80,42 @@
         2023
       ],
       "counts": [
-        12,
-        7,
-        12,
+        16,
+        17,
+        10,
+        10,
         14,
-        14,
-        16
+        8
       ]
     },
     "keyword_analysis": {
       "top_keywords": {
-        "ai": 41,
-        "mentorship": 40,
-        "work-based learning": 38,
-        "industry 4.0": 37,
-        "vocational education": 35,
-        "digital skills": 34
+        "ai": 44,
+        "vocational education": 41,
+        "digital skills": 40,
+        "industry 4.0": 36,
+        "mentorship": 33,
+        "work-based learning": 31
       }
     },
     "citation_analysis": {
-      "total_citations": 4124,
-      "average_citations": 54.986666666666665,
-      "max_citations": 100,
-      "min_citations": 9
+      "total_citations": 3613,
+      "average_citations": 48.17333333333333,
+      "max_citations": 98,
+      "min_citations": 6
     },
     "author_analysis": {
       "top_authors": {
+        "Author A-3": 10,
+        "Author B-3": 10,
         "Author A-2": 10,
         "Author B-2": 10,
+        "Author A-1": 10,
+        "Author B-1": 10,
         "Author A-4": 10,
         "Author B-4": 10,
         "Author A-0": 10,
-        "Author B-0": 10,
-        "Author A-3": 10,
-        "Author B-3": 10,
-        "Author A-1": 10,
-        "Author B-1": 10
+        "Author B-0": 10
       }
     }
   }
